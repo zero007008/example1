@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>
+      onile teax
+    </title>
+  </head> 
+ <style>button{ 
+  background:green;
+  color:black;
+  }
+  
+  </style>
+  <body>
+  <h2> 
+  <pre>                    2025(March)</pre>
+  <pre>                   Monthly Teax                 <time>2025.7.2</time> </pre>
+  <pre>Grade(12)(A)        Chemistry</pre>
+  <pre>Section(A)                                       (60-mark) </pre>
+  </h2>
+  <ol type="1">
+    <li><p>which transition element have the largest atomic size in the 3d series?</p></li>
+    
+   <p>A <input type="checkbox">copper</p>
+    <p>B<input type="checkbox">iron</p>
+    <p> C<input type="checkbox">zinc</p>
+    <p>D<input type="checkbox">titanium</p>
+     <li></li>
+  </ol></div>
+ <main>
+      <a href="Home.html">
+      <p><button>Home</button></p> </a>
+      <p>logout</p>
+    </main>
+  </body>
+</html>
